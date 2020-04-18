@@ -8,10 +8,8 @@ Create a new project, import class files
 
 ### Prerequisites
 
-Visual Studio
-
 ```
-
+Visual Studio
 ```
 
 ### Installing
@@ -29,7 +27,7 @@ Import class files
 
 ## Authors
 
-* **Nevin Manimala** - *Initial work* - [nm11g-rgb](https://github.com/nm11g-rgb)
+* **[Nevin Manimala](https://github.com/nm11g-rgb)** - *Initial work* - [nm11g-rgb](https://github.com/nm11g-rgb)
 
 ## License
 
