@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace NoLimit
+namespace webclientsample
 {
     partial class Mango
     {
@@ -14,7 +14,7 @@ namespace NoLimit
         {
             WebClient client = new WebClient();
             Random randNum = new Random();
-            string agent = "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0";
+            string agent = "Mozilla/5.0";
             //foreach (var item in kvp)
             //{
                 client.Headers[HttpRequestHeader.UserAgent] = agent;
